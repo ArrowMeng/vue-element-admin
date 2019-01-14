@@ -1,6 +1,6 @@
 export default {
   route: {
-    dashboard: '首页',
+    dashboard: '机器人',
     introduction: '简述',
     documentation: '文档',
     guide: '引导页',
@@ -28,6 +28,8 @@ export default {
     keyboardChart: '键盘图表',
     lineChart: '折线图',
     mixChart: '混合图表',
+    knowledge: '知识库管理',
+    qaList: '业务问答管理',
     example: '综合实例',
     nested: '路由嵌套',
     menu1: '菜单1',
@@ -66,7 +68,7 @@ export default {
   },
   navbar: {
     logOut: '退出登录',
-    dashboard: '首页',
+    dashboard: '机器人',
     github: '项目地址',
     screenfull: '全屏',
     theme: '换肤',

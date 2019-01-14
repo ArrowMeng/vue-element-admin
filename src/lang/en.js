@@ -1,6 +1,6 @@
 export default {
   route: {
-    dashboard: 'Dashboard',
+    dashboard: 'IRbot',
     introduction: 'Introduction',
     documentation: 'Documentation',
     guide: 'Guide',
@@ -28,6 +28,8 @@ export default {
     keyboardChart: 'Keyboard Chart',
     lineChart: 'Line Chart',
     mixChart: 'Mix Chart',
+    knowledge: 'Knowledge',
+    qaList: 'Questions and Answers',
     example: 'Example',
     nested: 'Nested Routes',
     menu1: 'Menu 1',
@@ -66,7 +68,7 @@ export default {
   },
   navbar: {
     logOut: 'Log Out',
-    dashboard: 'Dashboard',
+    dashboard: 'IRbot',
     github: 'Github',
     screenfull: 'Screenfull',
     theme: 'Theme',
